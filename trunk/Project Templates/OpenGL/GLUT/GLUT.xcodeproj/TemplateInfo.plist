@@ -1,0 +1,10 @@
+{
+	FilesToRename = {
+		
+	};
+	FilesToMacroExpand = (
+		"main.cpp",
+		"Info.plist",
+	);
+	Description = "This project builds an OpenGL/GLUT based application written in C++.";
+}
