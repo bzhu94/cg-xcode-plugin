@@ -1,8 +1,9 @@
 #summary How to install Cg Xcode Plugin.
 #labels Phase-Deploy,Featured
 
-= Introduction =
+= Instructions =
 
-Add your content here.
-
-Create Directory at ~/Library/Application Support/Developer/Shared/Xcode/File Templates
+# Create Directory at ~/Library/Application Support/Developer/Shared/Xcode/File Templates
+# Copy contents of File Templates to ~/Library/Application Support/Developer/Shared/Xcode/File Templates
+# Create Directory at ~/Library/Application Support/Developer/Shared/Xcode/Project Templates
+# Copy contents of Project Templates to ~/Library/Application Support/Developer/Shared/Xcode/Project Templates
